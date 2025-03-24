@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **radnaa2015@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
