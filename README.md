@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS Solutions Architect Associate**
 
-- 👨‍💻 All of my projects are available at [radnaabazar.vercel.app](radnaabazar.vercel.app)
+- 👨‍💻 All of my projects are available at [radnaabazar.vercel.app](https://radnaabazar.vercel.app)
 
 - 📫 How to reach me **radnaa2015@gmail.com**
 
