@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radnaabazar</h1>
 <h3 align="center">🌱 I Write Code as a Javascript developer. Specialized in Reactjs, Nextjs.</h3>
 
-- 🌱 I’m currently learning **AWS Solutions Architect Associate**
+- 🌱 I’m currently learning for **AWS Solutions Architect Associate Certificate**
 
 - 👨‍💻 All of my projects are available at [radnaabazar.vercel.app](https://radnaabazar.vercel.app)
 
