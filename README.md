@@ -3,6 +3,8 @@
 
 - Industrial confusion & inconviencience engineering
 
+- Force push and pray Σ(っ °Д °;)っ
+
 - 🌱 Currently learning for **AWS Solutions Architect Associate Certificate**
 
 - 👨‍💻 Check out my portfolio at [radnaabazar.vercel.app](https://radnaabazar.vercel.app)
