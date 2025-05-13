@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Radnaabazar</h1>
 <h3 align="center">🌱 I Build Full Stack Applications specializing in Backend and Frontend Development.</h3>
 
+- Industrial confusion & inconviencience engineering
+
 - 🌱 Currently learning for **AWS Solutions Architect Associate Certificate**
 
 - 👨‍💻 Check out my portfolio at [radnaabazar.vercel.app](https://radnaabazar.vercel.app)
