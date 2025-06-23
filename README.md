@@ -13,8 +13,7 @@ Fullstack dev, System Architect, DevOps
 
 
 - 📚 I’m currently learning ...
-  - *AWS Solutions Architect Associate Certificate*
-  - *Go Lang*
+  - *AWS Solutions Architect Associate*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 📚 reading webnovels, 🎵 listening to music, and I also love 🎸 playing musical instruments.
