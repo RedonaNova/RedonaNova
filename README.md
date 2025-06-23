@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Radnaabazar</h1>
 <h3 align="center">🌱 I Build Full Stack Applications specializing in Backend and Frontend Development.</h3>
 
-- Industrial confusion & inconviencience engineering
+- Industrial confusion & inconvenience engineering  
+  <img src="https://media.tenor.com/HNu3K_8ugrUAAAAd/aharen-anime-aharen-reina.gif" width="250"/>
+
 
 - Force push and pray Σ(っ °Д °;)っ
 
