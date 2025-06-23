@@ -2,8 +2,8 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">Redona</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 Fullstack dev, System Architect, DevOps 
-- Industrial confusion & inconviencience engineering
-- Force push and pray Σ(っ °Д °;)っ
+<p><small><i>- Industrial confusion & inconvenience engineering<br>
+- Force push and pray Σ(っ °Д °;)っ</i></small></p>
 <h2>
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35"/>
   &nbsp;About Me
