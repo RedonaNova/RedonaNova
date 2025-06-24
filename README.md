@@ -18,7 +18,7 @@ Fullstack dev, System Architect, DevOps
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 📚 reading webnovels, 🎵 listening to music, and I also love 🎸 playing musical instruments.
 - 📫 Reach out to me at: <a href="radnaa2015@gmail.com">radnaa2015@gmail.com</a>
-- 👨‍💻 Check out my portfolio at [radnaabazar.vercel.app](https://radnaabazar.vercel.app)
+- 👨‍💻 Check out my portfolio at [radnaabazar.com](https://radnaabazar.com)
 <div align="center">
   <a href="https://www.instagram.com/redona.xd"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
 </div>
