@@ -27,8 +27,13 @@ Fullstack dev, System Architect, DevOps
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,c,cpp,cs,go&perline=12" />
+#### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,next,nodejs,express,dotnet,prisma,tailwind&perline=12" />
+#### Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,vercel,postgres,mongodb,mysql,postman,redhat,ps,figma,latex,pr&perline=12" />
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,c,cs,cpp,docker,dotnet,express,figma,go,js,ts,latex,mongodb,mysql,nextjs,nginx,nodejs,ps,postgres,postman,pr,prisma,react,redhat,tailwind,aws,react&perline=10)](https://skillicons.dev)
 </br>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
