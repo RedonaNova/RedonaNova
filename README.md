@@ -31,10 +31,12 @@ Fullstack dev, System Architect, DevOps
 <img src="https://skillicons.dev/icons?i=ts,js,c,cpp,cs,go,react,next,nodejs,express,dotnet,prisma,tailwind&perline=15" />
 
 #### Tools & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,vercel,postgres,mongodb,mysql,postman,redhat,ps,figma,latex,pr&perline=15" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,vercel,redhat,nginx,postgres,mongodb,mysql,postman,figma,latex,ps,pr&perline=15" />
 
 </br>
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
