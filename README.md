@@ -44,6 +44,6 @@ Fullstack dev, System Architect, DevOps
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RedonaNova&layout=compact&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RedonaNova&icon=0&color=0)](https://visitcount.itsvg.in)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RedonaNova.RedonaNova)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
