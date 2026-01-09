@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">Redona</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Usmaexe&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=RedonaNova&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </div>
 <br>
 Fullstack dev, System Architect, DevOps 
