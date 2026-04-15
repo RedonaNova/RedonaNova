@@ -14,7 +14,7 @@ Fullstack dev, System Architect, DevOps
 
 
 - 📚 I’m currently learning ...
-  - *AWS Developer Associate*, *Japanese N2 level*, "Certified Kubernetes Administrator"
+  - *AWS Developer Associate*, *Japanese N2 level*, *Certified Kubernetes Administrator*
 - 🚀 I’m eager to join new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 📚 reading webnovels, 🎵 listening to music, and I also love 🎸 playing musical instruments.
