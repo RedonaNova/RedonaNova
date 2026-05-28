@@ -21,7 +21,7 @@ Fullstack dev, System Architect, DevOps
 - 📫 Reach out to me at: <a href="radnaa2015@gmail.com">radnaa2015@gmail.com</a>
 - 👨‍💻 Check out my portfolio at [radnaabazar.com](https://radnaabazar.com)
 <div align="center">
-  <a href="https://www.instagram.com/redona.xd"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/radnaa.xd"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
 </div>
 
 <br>
